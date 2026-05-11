@@ -53,7 +53,3 @@ full-stack applications and backend systems that are **fast, secure, and scalabl
 | [OS Simulations](https://github.com/agoyal9/OS_Scheduler_Simulator) | C++ | CPU scheduling, deadlock detection, memory management |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agoyal9&show_icons=true&theme=default&hide_border=true" alt="Ashmi's GitHub stats"/>
-</p>
