@@ -50,7 +50,7 @@ full-stack applications and backend systems that are **fast, secure, and scalabl
 | [Personal Finance Tracker](#) | Angular · Node.js · MySQL | SPA with JWT auth, Chart.js spending visualizations |
 | [Credit Card Fraud Detection](#) | Python · scikit-learn · SMOTE | 535K transactions, 0.9889 ROC-AUC, threshold sensitivity analysis |
 | [Internship Management System](#) | PHP · MySQL | 500+ users, 8-table schema, session management |
-| [OS Simulations](#) | C++ | CPU scheduling, deadlock detection, memory management |
+| [OS Simulations](https://github.com/agoyal9/OS_Scheduler_Simulator) | C++ | CPU scheduling, deadlock detection, memory management |
 
 ---
 
