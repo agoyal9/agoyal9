@@ -46,7 +46,7 @@ full-stack applications and backend systems that are **fast, secure, and scalabl
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [Theme Park Management System](#) | Node.js · Express · SQL Server · JS | 13+ REST endpoints, live analytics dashboard, role-based auth |
+| [Theme Park Management System](https://github.com/agoyal9/Themepark_Project_2026) | Node.js · Express · SQL Server · JS | 13+ REST endpoints, live analytics dashboard, role-based auth |
 | [Personal Finance Tracker](#) | Angular · Node.js · MySQL | SPA with JWT auth, Chart.js spending visualizations |
 | [Credit Card Fraud Detection](https://github.com/agoyal9/credit-card-fraud-detection) | Python · scikit-learn · SMOTE | 535K transactions, 0.9889 ROC-AUC, threshold sensitivity analysis |
 | [Internship Management System](#) | PHP · MySQL | 500+ users, 8-table schema, session management |
